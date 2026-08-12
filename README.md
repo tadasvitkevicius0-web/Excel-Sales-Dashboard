@@ -50,4 +50,8 @@ To transform sales data into an interactive and visually appealing Excel dashboa
 
 ## Project File
 
-[Excel_Sales_Dashboard.xlsx](./Interactive_Excel_Dashboard.xlsx)
+[Interactive_Excel_Dashboard.xlsx](./Interactive_Excel_Dashboard.xlsx)
+
+## Dashboard Preview
+
+
