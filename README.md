@@ -54,4 +54,6 @@ To transform sales data into an interactive and visually appealing Excel dashboa
 
 ## Dashboard Preview
 
+![Excel-Sales-Dashboard](./Dashboard.png)
+
 
