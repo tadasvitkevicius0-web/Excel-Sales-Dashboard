@@ -1,52 +1,54 @@
-# Excel-Sales-Dashboard
-Advanced Excel 2019 sales analysis dashboard with interactive slicers, PivotTables, PivotCharts, and visualizations.
+# Excel Sales Dashboard
 
-##Analysis
+An interactive sales dashboard built in Microsoft Excel 2019.
 
-Total Revenue by Month
-Sales by Region
-Total Revenue by Sales Person per Year
-Sum of Items Sold
-Total Sales by Company
+## Analysis
 
-##Interactive Dashboard
+- Total Revenue by Month
+- Sales by Region
+- Total Revenue by Sales Person per Year
+- Sum of Items Sold
+- Total Sales by Company
 
-The final dashboard combines the visualizations into a clean and user-friendly layout with interactive slicers for:
+## Dashboard
 
-Region
-Sales Person
-Item
-Year
+The dashboard combines all visualizations into a clean and user-friendly layout.
 
-The slicers allow users to dynamically explore different areas of the dataset and compare sales performance across different dimensions.
+Interactive slicers are included for:
 
-##Insights
+- Region
+- Sales Person
+- Item
+- Year
+
+These slicers allow the user to filter and explore the dashboard dynamically.
+
+## Insights
 
 The dashboard allows users to identify:
 
-Monthly revenue trends and changes in sales performance
-The strongest and weakest performing regions
-Individual sales-person performance across different years
-The items generating the highest sales volume
-The companies contributing the most to total sales
-How sales performance changes when filtering by salesperson, item, or year
+- Monthly revenue trends
+- Strongest and weakest performing regions
+- Sales person performance across different years
+- Items with the highest sales volume
+- Companies contributing the most to total sales
+- Changes in performance based on region, sales person, item, and year
 
-##Tools & Features
+## Tools and Features
 
-Microsoft Excel 2019
-PivotTables
-PivotCharts
-Slicers
-Data analysis
-Dashboard design
-Interactive visualizations
-##Project Goal
+- Microsoft Excel 2019
+- PivotTables
+- PivotCharts
+- Slicers
+- Excel formulas
+- Data analysis
+- Data visualization
+- Dashboard design
 
-To transform raw sales data into an interactive and visually appealing Excel dashboard that makes sales performance easier to analyze and understand.
+## Project Goal
 
-####Project File
+To transform sales data into an interactive and visually appealing Excel dashboard that makes sales performance easier to analyze and understand.
 
-Excel_Sales_Dashboard.xlsx
+## Project File
 
-
-[Tadas Vitkevicius]
+[Excel_Sales_Dashboard.xlsx](./Interactive_Excel_Dashboard.xlsx)
