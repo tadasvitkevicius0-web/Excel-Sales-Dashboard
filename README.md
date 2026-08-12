@@ -16,7 +16,7 @@ The dashboard combines all visualizations into a clean and user-friendly layout.
 
 Interactive slicers are included for:
 
-- Region
+- Region (unfortunantly doesn't adapt)
 - Sales Person
 - Item
 - Year
@@ -40,7 +40,6 @@ The dashboard allows users to identify:
 - PivotTables
 - PivotCharts
 - Slicers
-- Excel formulas
 - Data analysis
 - Data visualization
 - Dashboard design
